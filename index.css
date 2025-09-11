@@ -21,7 +21,7 @@ h1{display: flex;
     justify-content: center;
     align-items: center;
     font-size: 35px;
-  padding-bottom: 10px}
+  padding-bottom: 40px}
 .box{width: 1000px;
 background-color: chocolate;
 padding-bottom: 3px;
@@ -75,6 +75,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 }
+
 
 
 
