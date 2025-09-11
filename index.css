@@ -15,7 +15,6 @@ animation-timeline: scroll();
 body{
     background-color: antiquewhite;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
-img{margin-left: 200px;}s
 h1{display: flex;
     border-radius: 2px;
     letter-spacing: 2px;
@@ -75,6 +74,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 }
+
 
 
 
