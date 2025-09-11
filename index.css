@@ -15,7 +15,7 @@ animation-timeline: scroll();
 body{
     background-color: antiquewhite;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
-.img{margin: auto;}
+.img{margin-left: 200px;}
 h1{display: flex;
     border-radius: 2px;
     letter-spacing: 2px;
@@ -78,4 +78,5 @@ align-items: center;
 video{padding-top: 15px;
 margin-left: 200px;
 }
+
 
