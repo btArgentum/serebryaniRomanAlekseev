@@ -15,7 +15,7 @@ animation-timeline: scroll();
 body{
     background-color: antiquewhite;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
-.img{display: flex;
+img{display: flex;
      justify-content: center;
      align-items: center;}
 h1{display: flex;
@@ -80,6 +80,7 @@ align-items: center;
 video{padding-top: 15px;
 margin-left: 200px;
 }
+
 
 
 
